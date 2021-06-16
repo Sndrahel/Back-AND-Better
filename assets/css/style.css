@@ -66,11 +66,7 @@ h1, h2 {
     position: relative;
 }
 
-#cover-text, #cover-text h2 {
-    color: #3a3a3a;
-}
-
-#hero-image {
+#main-image {
     height: 600px;
     width: 100%;
     background: url(../images/pexels-leon-ardho-1552249.jpeg);
@@ -112,3 +108,47 @@ h1, h2 {
 
     position: absolute;
 } 
+
+#cover-text, #cover-text h2 {
+    color: #3a3a3a;
+}
+
+/* INTRO SECTION */
+
+#intro-section {
+    height: 600px;
+}
+
+#left-intro-container {
+    padding-top: 30px;
+    width: 50%;
+    float: left;
+    margin-bottom: 50px;
+}
+/*
+.left-intro-heading {
+    width: 100%;
+    float: left;
+    line-height: 20px;
+    clear: both;
+    margin-bottom: 50px;
+} */
+
+#right-intro-container {
+    padding-top: 30px;
+    width: 50%;
+    float: right;
+    margin-bottom: 50px;
+}
+
+hr {
+    border-top: 1px solid #000;
+    width: 100%;
+    margin: 10px 0;
+}
+
+#intro-heading {
+    text-align: center;
+    margin: 30px;
+    font-size: 280%;
+}
