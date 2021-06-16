@@ -56,3 +56,59 @@ h1, h2 {
 .active {
     border-bottom: 1px solid #3a3a3a;
 }
+
+/* Main header */
+
+#main-header {
+    height: 600px;
+    width: 100%;  
+    overflow: hidden; 
+    position: relative;
+}
+
+#cover-text, #cover-text h2 {
+    color: #3a3a3a;
+}
+
+#hero-image {
+    height: 600px;
+    width: 100%;
+    background: url(../images/pexels-leon-ardho-1552249.jpeg);
+    background-position: bottom;
+    position: absolute;
+    
+/* animates zoom effect on loading page */
+    
+    animation-name: hero-zoom;
+    animation-duration: 5s;
+    animation-fill-mode: both; 
+}
+/* creates the level of zoom for hero image */
+    
+    @keyframes hero-zoom {
+    from {
+        transform: scale(1);
+    }
+    to {
+        transform: scale(1.1);
+    }
+    }
+
+#cover-text {
+    font-size: 150%;
+    font-family: Roboto, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    text-align: center;
+    width: 400px;
+    height: 150px;
+    padding-top: 40px;
+    padding-left: 10px;
+    
+    background-color: rgba(255, 56, 117, .6);
+
+    bottom: 80px;
+    right: 100px;    
+
+    position: absolute;
+} 
