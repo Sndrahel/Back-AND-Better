@@ -224,3 +224,23 @@ footer p {
     padding: 2%;
     color: #fff;
 }
+
+/* CONTACT.HTML FORM SECTION */
+
+.form-section {
+    clear: left;
+    background: url(../images/pexels-leon-ardho-1552249.jpeg);
+    background-size: cover;
+    background-position: bottom;
+    height: 900px;
+}
+
+.contact-me-form {
+    margin: 150px 10% 0 0;
+    color: #fff;
+    background-color: rgba(255, 56, 117, .5);
+    max-width: 400px;
+    position: fixed;
+    left: 10%;
+    padding: 40px;
+}
