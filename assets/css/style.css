@@ -176,9 +176,9 @@ hr {
 /* SESSION SECTION */
 
 #sessions {
-   /* background-image: url(../images/mr-lee-f4RBYsY2hxA-unsplash.jpg);*/
+   /* background-image: url(../images/mr-lee-f4RBYsY2hxA-unsplash.jpg);
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: cover; */
     background-position: center;
     width: 100%;
     overflow: hidden;
@@ -193,8 +193,8 @@ hr {
     padding: 40px 0 0 10px;
     text-align: center;
     border: 20px solid white;
-    box-sizing: border-box;
-    /*margin: 0 auto; */
+    box-sizing: border-box; 
+
 }
 
 #sessions h2 {
@@ -247,7 +247,7 @@ footer p {
 }
 
 .contact-us-form {
-    margin: 200px 10% 0 0;
+    margin: 100px 10% 0 0;
     color: #fff;
     background-color: rgba(255, 56, 117, .5);
     max-width: 400px;
@@ -296,7 +296,49 @@ footer p {
     color:#040707;
 }
 
-/* MEDIA QUERIES (for screens sizes from 950px wide and down) */
+/* MEDIA QUERIES */
+
+/* For larger to medium screens size from 1200px wide and down */
+
+@media screen and (max-width: 1200px) {
+    #club-ethos {
+        width: 65%;
+        height: 1200px;
+        margin: 0 auto;
+    }
+
+    #welcome {
+        padding: 30px 0;
+        margin: 0;
+    }
+
+    #left-about-container, #right-about-container {
+        width: 100%;
+        float: left;
+        padding: 0;
+    }
+    /*
+    #center-about {
+        clear: both;
+        width: 100%;
+        float: left;
+        padding: 0;
+    } */
+
+    #sessions > div {
+        width: 100%;
+        clear: both;
+        height: 150px;
+        padding: 0;
+    }
+
+    hr {
+        display: none;
+    }
+
+}
+
+/* for screens sizes from 950px wide or less */
 
 @media screen and (max-width: 950px) {
     
@@ -312,6 +354,11 @@ footer p {
         left: 0px;
     }
 
+}
 
+/*for screens sizes from 600px wide or less) */
 
+@media screen and (max-width: 600px) {
+
+    
 }
