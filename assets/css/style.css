@@ -225,7 +225,7 @@ footer p {
     color: #fff;
 }
 
-/* CONTACT.HTML FORM SECTION */
+/* FORM SECTION (Styling taken from Love Running template) */
 
 .form-section {
     clear: left;
@@ -243,4 +243,42 @@ footer p {
     position: fixed;
     left: 10%;
     padding: 40px;
+    box-sizing: border-box;
+}
+
+.contact-us-form h2 {
+    color: #F6F6F6;
+    margin-bottom: 20px;
+}
+
+.form-text-input {
+    color: #040707;
+    width: 100%;
+    height: 25px;
+    margin: 5px 0 20px 0;
+    border: 1px solid #F6F6F6;
+}
+
+#textarea {
+    width: 100%;
+}
+
+.form-text-input:hover, #textarea:hover {
+    background-color: #f16c6b;
+}
+
+#submit-button {
+    margin-top: 20px;
+    border-radius: 1px;
+    border: 1px solid #F6F6F6;
+    padding: 15px 32px 15px 32px;
+    text-align: center;
+    font-size: 100%;
+    background-color: transparent;
+    color: #F6F6F6;
+    display: block;
+}
+#submit-button:hover {
+    background-color: #f16c6b;
+    color:#040707;
 }
