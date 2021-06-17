@@ -12,7 +12,7 @@ body {
     color: #3a3a3a;
 }
 
-/* Headings and logo */
+/* HEADING ANG LOGO */
 
 h1, h2 {
     font-family: montserrat, sans-serif;
@@ -27,7 +27,7 @@ h1, h2 {
     margin-left: 30px;
 }
 
-/* Navigation links */
+/* NAVIGATION LINKS */
 
 #menu {
     font-size: 110%;
@@ -57,7 +57,7 @@ h1, h2 {
     border-bottom: 1px solid #3a3a3a;
 }
 
-/* Main header */
+/* MAIN HEADER */
 
 #main-header {
     height: 600px;
@@ -73,15 +73,13 @@ h1, h2 {
     background-position: bottom;
     position: absolute;
     
-/* animates zoom effect on loading page */
+/* ZOOM EFFECT (loading page) */
     
-    animation-name: hero-zoom;
+    animation-name: main-image-zoom;
     animation-duration: 5s;
     animation-fill-mode: both; 
 }
-/* creates the level of zoom for hero image */
-    
-    @keyframes hero-zoom {
+    @keyframes main-image-zoom {
     from {
         transform: scale(1);
     }
@@ -172,13 +170,41 @@ hr {
     width: 33%;
     height: 300px;
     float: left;
-    padding: 30px 0 0 10px;
+    padding: 40px 0 0 10px;
     text-align: center;
-    border: 4px solid white;
+    border: 10px solid white;
     box-sizing: border-box;
-
 }
 
 #sessions h2 {
     color: #fafafa;
+}
+
+/* FOOTER */
+
+footer {
+    height: 100px;
+}
+
+.text-uppercase {
+    text-transform: uppercase;
+} 
+
+footer p {
+    text-align: center;
+    padding-bottom: 50px;
+}
+
+.social-media-links {
+    text-align: center;
+}
+.social-media-links > li {
+    display: inline;
+}
+
+.social-media-links i {
+    font-size: 300%;
+    margin: 1%;
+    padding: 5%;
+    color: #000;
 }
