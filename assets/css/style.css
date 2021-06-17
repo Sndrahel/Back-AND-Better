@@ -97,7 +97,7 @@ h1, h2 {
     }
     }
 
-#cover-text {
+#main-cover-text {
     font-size: 120%;
     font-family: Roboto, sans-serif;
     text-transform: uppercase;
@@ -116,7 +116,7 @@ h1, h2 {
     position: absolute;
 } 
 
-#cover-text, #cover-text h2 {
+#main-cover-text, #main-cover-text h2 {
     color: #F6F6F6;
 }
 
@@ -124,6 +124,10 @@ h1, h2 {
 
 #intro-section {
     height: 600px;
+}
+
+#center-intro {
+
 }
 
 #left-intro-container {
@@ -236,7 +240,7 @@ footer p {
 }
 
 .contact-us-form {
-    margin: 150px 10% 0 0;
+    margin: 200px 10% 0 0;
     color: #fff;
     background-color: rgba(255, 56, 117, .5);
     max-width: 400px;
