@@ -123,7 +123,7 @@ h1, h2 {
 /* INTRO SECTION */
 
 #intro-section {
-    height: 600px;
+    height: auto;
 }
 
 #center-intro {
@@ -131,9 +131,17 @@ h1, h2 {
     width: 70%;
     margin: 0 auto;
     background-color: rgba(255, 56, 117, .5);
+    text-align: center;
 }
 
-#left-intro-container {
+#intro-heading {
+    text-align: center;
+    margin: 30px;
+    font-size: 280%;
+    color: #252525;
+}
+
+#left-about-container {
     padding-top: 30px;
     width: 50%;
     float: left;
@@ -149,7 +157,7 @@ h1, h2 {
     margin-bottom: 50px;
 } */
 
-#right-intro-container {
+#right-about-container {
     padding-top: 30px;
     width: 50%;
     float: right;
@@ -163,12 +171,6 @@ hr {
     margin: 10px 0;
 }
 
-#intro-heading {
-    text-align: center;
-    margin: 30px;
-    font-size: 280%;
-    color: #252525;
-}
 
 /* SESSION SECTION */
 
