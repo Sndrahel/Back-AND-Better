@@ -176,7 +176,7 @@ hr {
 /* SESSION SECTION */
 
 #sessions {
-    background-image: url(../images/mr-lee-f4RBYsY2hxA-unsplash.jpg);
+   /* background-image: url(../images/mr-lee-f4RBYsY2hxA-unsplash.jpg);*/
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -185,15 +185,16 @@ hr {
 }
 
 #sessions div {
-    color: #fafafa;
+    color: white;
     background-color: rgba(0, 0, 0, .6);
-    width: 33%;
+    width: 30%;
     height: 300px;
     float: left;
     padding: 40px 0 0 10px;
     text-align: center;
-    border: 10px solid white;
+    border: 20px solid white;
     box-sizing: border-box;
+    /*margin: 0 auto; */
 }
 
 #sessions h2 {
