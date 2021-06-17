@@ -131,7 +131,7 @@ h1, h2 {
     width: 50%;
     float: left;
     margin-bottom: 50px;
-    background-color: blueviolet;
+    background-color: rgba(255, 56, 117, .5);
 }
 /*
 .left-intro-heading {
@@ -151,7 +151,7 @@ h1, h2 {
 }
 
 hr {
-    border-top: 1px solid #000;
+ /* border-top: 1px solid #000;*/
     width: 100%;
     margin: 10px 0;
 }
@@ -194,7 +194,11 @@ hr {
 
 footer {
     height: 150px;
-    background-color: #000;
+    background-color: #040707;
+}
+
+footer div {
+    background-color: #040707;
 }
 
 .text-uppercase {
