@@ -220,7 +220,7 @@ footer p {
 
 .social-media-links i {
     font-size: 300%;
-    margin: 1%;
+  /*  margin: 1%; */
     padding: 2%;
     color: #fff;
 }
@@ -244,6 +244,7 @@ footer p {
     left: 10%;
     padding: 40px;
     box-sizing: border-box;
+    font-size: 110%;
 }
 
 .contact-us-form h2 {
@@ -261,6 +262,7 @@ footer p {
 
 #textarea {
     width: 100%;
+    margin-top: 5px;
 }
 
 .form-text-input:hover, #textarea:hover {
