@@ -192,7 +192,8 @@ hr {
 /* FOOTER */
 
 footer {
-    height: 100px;
+    height: 150px;
+    background-color: #000;
 }
 
 .text-uppercase {
@@ -214,6 +215,6 @@ footer p {
 .social-media-links i {
     font-size: 300%;
     margin: 1%;
-    padding: 5%;
-    color: #000;
+    padding: 2%;
+    color: #fff;
 }
