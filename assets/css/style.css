@@ -122,8 +122,8 @@ h1, h2 {
 
 /* INTRO SECTION */
 
-#intro-section {
-    height: auto;
+#home-intro-section, #about-intro-section {
+    height: 600px;
 }
 
 #home-intro {
@@ -149,14 +149,6 @@ h1, h2 {
     margin-bottom: 50px;
     background-color: rgba(255, 56, 117, .5);
 }
-/*
-.left-intro-heading {
-    width: 100%;
-    float: left;
-    line-height: 20px;
-    clear: both;
-    margin-bottom: 50px;
-} */
 
 #right-about-container {
     padding-top: 30px;
