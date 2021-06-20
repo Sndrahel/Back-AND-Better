@@ -109,8 +109,8 @@ h1, h2 {
     padding-top: 40px;
     padding-left: 10px;
     background-color: rgba(255, 56, 117, .5);
-    bottom: 80px;
-    right: 30px;    
+    bottom: 100px;
+    right: 50px; 
     position: absolute;
 } 
 
@@ -174,20 +174,20 @@ hr {
 
 #left-about-container {
     padding-top: 30px;
-    width: 33%;
+    width: 25%;
     float: left;
     background-color: rgba(255, 56, 117, .5);
 }
     
 #right-about-container {
     padding-top: 30px;
-    width: 33%;
+    width: 25%;
     float: right;
     background-color: aqua;
 }
     
 #center-about-container {
-    width: 33%;
+    width: 52%;
     margin: 0 auto;
 }
 
@@ -215,21 +215,20 @@ hr {
     text-align: right;
 }
         
-#circle-container {
-    width: 300px;
+#about-us-container {
+    width: 600px;
     height: 300px;
-    padding: 20px;
+    padding: 1px;
     border-style: solid;
     border-color: #ccc;
-    border-width: 1px;
-    border-radius: 50%;
+    border-width: 5px;
     margin: 0 auto;
 }
         
-#circle-cover-bg {
-    background: url("../images/kelly-sikkema-IZOAOjvwhaM-unsplash.jpeg") no-repeat center center;
+#about-us-cover-bg {
+    background: url("../images/lee-chinyama-Y8OC0MAWQ8Y-unsplash.jpg") no-repeat center center;
     height: 100%;
-    border-radius: 50%;
+    background-position: top;
 } 
 
 /* SESSION SECTION */
@@ -298,8 +297,7 @@ footer p {
 
 .social-media-links i {
     font-size: 300%;
-  /*  margin: 1%; */
-    padding: 2%;
+    padding: 3%;
     color: #fff;
 }
 
