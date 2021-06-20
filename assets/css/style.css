@@ -187,7 +187,7 @@ hr {
 }
     
 #center-about-container {
-    width: 50%;
+   /* width: 50%; */
     margin: 0 auto;
 }
 
@@ -361,11 +361,6 @@ footer p {
     color:#040707;
 }
 
-.form-section > div {
-    /*margin-top: 50px; */
-    display: flex;
-    justify-content: center;
-}
 
 /* MEDIA QUERIES */
 
