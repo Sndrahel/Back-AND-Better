@@ -213,6 +213,11 @@ hr {
         
 .right-about-heading p {
     text-align: right;
+    margin-left: 5px;
+}
+
+.left-about-heading p {
+    margin-right: 5px;
 }
         
 #about-us-container {
