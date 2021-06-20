@@ -233,10 +233,9 @@ hr {
 
 /* SESSION SECTION */
 
-#sessions {
-    /*background-image: url(../images/mr-lee-f4RBYsY2hxA-unsplash.jpg);
+.sessions {
     background-repeat: no-repeat;
-    background-size: cover; */
+    background-size: cover; 
     background-position: center;
     width: 100%;
     overflow: hidden;
@@ -244,7 +243,7 @@ hr {
     justify-content: center;
 }
 
-#sessions div {
+.sessions div {
     color: white;
   /*  background-color: rgba(0, 0, 0, .6); */
     width: 30%;
@@ -256,13 +255,17 @@ hr {
     box-sizing: border-box; 
 }
 
-#sessions h2 {
+.sessions h2 {
     color: #fafafa;
 }
 
 #sessions-pt {
     background-image: url("../images/sven-mieke-Lx_GDv7VA9M-unsplash.jpg");
-    height: 300px;
+}
+
+#sessions-rehab {
+    background-image: url("../images/scott-webb-xwMlVSqP20U-unsplash.jpg");
+    background-position: center; 
 }
 
 /* FOOTER */
