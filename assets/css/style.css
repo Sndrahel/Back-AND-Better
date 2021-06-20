@@ -292,7 +292,7 @@ footer p {
 /* FORM SECTION (Styling taken from Love Running template) */
 
 .form-section {
-    clear: left;
+    clear: left; 
     background: url(../images/pexels-leon-ardho-1552249.jpeg);
     background-size: cover;
     background-position: bottom;
@@ -348,6 +348,11 @@ footer p {
     background-color: #f16c6b;
     color:#040707;
 }
+/*
+.form-section > div {
+    display: flex;
+    justify-content: center;
+} */
 
 /* MEDIA QUERIES */
 
@@ -370,7 +375,6 @@ footer p {
         float: left;
         padding: 0;
     }
-}
  
 #center-about-container {
         clear: both;
