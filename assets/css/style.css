@@ -400,14 +400,12 @@ footer p {
         padding: 0;
 } 
 
-#sessions > div {
+.sessions {
         width: 100%;
         clear: both;
         height: 150px;
         padding: 0;
 }
-
-
 }
 
 /* for screens sizes from 950px wide or less */
@@ -423,20 +421,17 @@ footer p {
     }
 
     #main-cover-text {
-        /*left: 0px; */
-    display: flex;
-    justify-content: center;
+        left: 0px;
     }
 }
 
 /*for screens sizes from 600px wide or less) */
 
 @media screen and (max-width: 600px) {
-    
     #main-cover-text {
-    left: 0px; 
-    display: flex;
-    justify-content: center;
-}
+        width: 100%;
+        text-align: center;
+        margin: auto;
+    }
     
 }
