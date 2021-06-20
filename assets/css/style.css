@@ -234,29 +234,27 @@ hr {
 
 /* SESSION SECTION */
 
-.sessions {
+#sessions {
     background-repeat: no-repeat;
     background-size: cover; 
     background-position: center;
     width: 100%;
     overflow: hidden;
-    display: flex;
-    justify-content: center;
 }
 
-.sessions div {
+#sessions div {
     color: white;
-  /*  background-color: rgba(0, 0, 0, .6); */
-    width: 30%;
+    background-color: rgba(0, 0, 0, .6);
+    width: 25%;
     height: 300px;
     float: left;
-    padding: 40px 0 0 10px;
+    padding: 25px 0 0 10px;
     text-align: center;
-    border: 20px solid white;
+    border: 1px solid white;
     box-sizing: border-box; 
 }
 
-.sessions h2 {
+#sessions h2 {
     color: #fafafa;
 }
 
@@ -400,7 +398,7 @@ footer p {
         padding: 0;
 } 
 
-.sessions {
+#sessions > div {
         width: 100%;
         clear: both;
         height: 150px;
