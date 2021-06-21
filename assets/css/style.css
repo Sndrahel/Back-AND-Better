@@ -386,6 +386,11 @@ footer p {
         margin: 0;
 }
 
+#home-intro {
+    width: 100%;
+    font-size: 100%;
+}
+
 #left-about-container, #right-about-container {
         width: 100%;
         float: left;
