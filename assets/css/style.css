@@ -278,6 +278,8 @@ a {
 footer {
     height: 150px;
     background-color: #040707;
+    width: 100%;
+    margin: 0 auto;
 }
 
 footer div {
@@ -387,22 +389,27 @@ footer p {
 #left-about-container, #right-about-container {
         width: 100%;
         float: left;
-        padding: 0;
+        padding: 10px;
+        border: 1px solid #F6F6F6;
+        margin-top: 5px;
     }
  
 #center-about-container {
         clear: both;
         width: 100%;
         float: left;
-        padding: 0;
+        padding: 0px;
 } 
 
-#sessions > div {
+#sessions div {
         width: 100%;
         clear: both;
-        height: 150px;
+        height: 210px;
         padding: 0;
+        margin: 0;
+        text-align: center; 
 }
+
 }
 
 /* for screens sizes from 950px wide or less */
