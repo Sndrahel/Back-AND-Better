@@ -491,8 +491,14 @@ footer p {
     font-size: 110%;
     }
     
-    #logo {
-        font-size: 25px;
+#logo {
+        font-size: 250%;
+    }
+
+#intro-heading {
+        text-align: center;
+        font-size: 250%;
+    
     }
     
 }
