@@ -376,14 +376,14 @@ footer p {
 
 @media screen and (max-width: 1200px) {
 .intro-section {
-        width: 100%;
-        height: 1200px;
-        margin: 0 auto;
+    width: 100%;
+    height: 1200px;
+    margin: 0 auto;
 }
 
 #intro-heading {
-        padding: 30px 0;
-        margin: 0;
+    padding: 30px 0;
+    margin: 0;
 }
 
 #home-intro {
@@ -391,28 +391,52 @@ footer p {
     font-size: 100%;
 }
 
-#left-about-container, #right-about-container {
-        width: 100%;
-        float: left;
-        padding: 10px;
-        border: 1px solid #F6F6F6;
-        margin-top: 5px;
+#about-intro-section {
+    width: 100%;
+    height: 1200px;
+    margin: 0 auto;
+}
+
+#left-about-container, #right-about-container  {
+    width: 100%;
+    float: left;
+    padding: 10px;
+    border: 1px solid #F6F6F6;
+    margin-top: 5px;
     }
+
+.left-about-heading, .right-about-heading {
+    width: 100%;
+}
+
+.left-about-heading h2, .right-about-heading h2 {
+    width: 100%;
+    text-align: center;
+}
+
+.left-about-heading p, .right-about-heading p {
+    text-align: center;
+    padding: 0 20px;
+}
+
+.intro-section > a {
+   display: block;
+}
  
 #center-about-container {
-        clear: both;
-        width: 100%;
-        float: left;
-        padding: 0px;
+    clear: both;
+    width: 100%;
+    float: left;
+    padding: 0px;
 } 
 
 #sessions div {
-        width: 100%;
-        clear: both;
-        height: 210px;
-        padding: 0;
-        margin: 0;
-        text-align: center; 
+    width: 100%;
+    clear: both;
+    height: 210px;
+    padding: 0;
+    margin: 0;
+    text-align: center; 
 }
 
 }
@@ -421,26 +445,32 @@ footer p {
 
 @media screen and (max-width: 950px) {
     
-    #menu {
-        clear: left;
-        float: left;
-        margin-left: 30px;
-        margin-bottom: 20px;
-        line-height: 25px;
+#menu {
+    clear: left;
+    float: left;
+    margin-left: 30px;
+    margin-bottom: 20px;
+    line-height: 25px;
     }
 
-    #main-cover-text {
-        left: 0px;
+#main-cover-text {
+    left: 0px;
+    }
+
+#about-intro-section {
+    width: 100%;
+    height: 1200px;
+    margin: 0 auto;
     }
 }
 
 /*for screens sizes from 600px wide or less) */
 
 @media screen and (max-width: 600px) {
-    #main-cover-text {
-        width: 100%;
-        text-align: center;
-        margin: 0 auto;
+#main-cover-text {
+    width: 100%;
+    text-align: center;
+    margin: 0 auto;
     }
 
     /*
