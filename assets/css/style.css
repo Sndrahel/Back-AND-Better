@@ -322,7 +322,7 @@ footer p {
 
 .form-section {
     clear: left; 
-    background: url(../images/pexels-leon-ardho-1552249.jpeg);
+    background: url("../images/leon-ardho-main.jpeg");
     background-size: cover;
     background-position: bottom;
     height: 900px;
@@ -510,13 +510,18 @@ footer p {
     border-style: none;
 }
 
+.form-section{
+    height: 600px;
+}
+
 .contact-us-form {
-    margin: 250px 10% 0 0;
-    max-width: 300px;
+    margin: 100px 10% 0 0; 
+    width: 100%;
     position: absolute;
     padding: 25px;
     box-sizing: border-box;
     font-size: 110%;
+    left: 0;
     }
     
 .logo {
