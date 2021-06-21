@@ -482,8 +482,14 @@ footer p {
 .main-cover-text {
     width: 100%;
     text-align: center;
+    padding: 10px;
     margin: 0 auto;
-    }
+}
+
+.home-intro-section {
+    height: 600px;
+    padding-bottom: 100px;
+}
 
 .contact-us-form {
     margin: 250px 10% 0 0;
@@ -499,6 +505,8 @@ footer p {
     margin-bottom: 6px;
     margin-top: 12px;
     line-height: 5px;
+    float: none;
+    margin-left: 0;
     }
 
 .intro-heading {
