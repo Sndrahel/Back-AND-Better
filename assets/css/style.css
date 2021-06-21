@@ -264,8 +264,11 @@ a {
     text-align: center;
     border: 5px solid white;
     box-sizing: border-box;
-   /* margin: 0 auto; */
-   
+   /* margin: 0 auto; */   
+}
+
+#sessions h2 {
+    color: #F6F6F6;
 }
 
 
