@@ -490,7 +490,10 @@ footer p {
     }
     
 .logo {
-    font-size: 250%;
+    font-size: 22px;
+    margin-bottom: 6px;
+    margin-top: 12px;
+    line-height: 5px;
     }
 
 .intro-heading {
@@ -501,6 +504,9 @@ footer p {
 .menu {
     font-size: 110%;
     letter-spacing: 1px;
+    margin-top: 11px;
+    margin-bottom: 20px;
+    line-height: 25px;
     }
           
 }
