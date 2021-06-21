@@ -178,25 +178,25 @@ a {
 
 /* ABOUT SECTION (Styling taken from Love Running template) */
 
-#left-about-container {
+.left-about-container {
     padding-top: 30px;
     width: 25%;
     float: left;
     background-color: var(--main-bg-color);  
 }
     
-#right-about-container {
+.right-about-container {
     padding-top: 30px;
     width: 25%;
     float: right;
     background-color: var(--main-bg-color);
 }
 
-#right-about-container a {
+.right-about-container a {
     float: right;
 }
     
-#center-about-container {
+.center-about-container {
     padding-bottom: 30px;
     width: 50%;
     margin: 0 auto;
@@ -232,7 +232,7 @@ a {
     margin-right: 5px;
 }
         
-#about-us-container {
+.about-us-container {
     width: 600px;
     height: 300px;
     padding: 1px;
@@ -242,11 +242,12 @@ a {
     margin: 0 auto;
 }
         
-#about-us-cover-bg {
+.about-us-cover-bg {
     background: url("../images/lee-chinyama-about.jpg");
     height: 100%;
     background-position: top;
 } 
+
 /* SESSIONS */
 
 .sessions {
@@ -394,13 +395,13 @@ footer p {
     font-size: 100%;
 }
 
-#about-intro-section {
+.about-intro-section {
     width: 100%;
     height: 1200px;
     margin: 0 auto;
 }
 
-#left-about-container, #right-about-container  {
+.left-about-container, .right-about-container  {
     width: 100%;
     float: left;
     padding: 10px;
@@ -423,7 +424,7 @@ footer p {
     padding: 0 20px;
 }
  
-#center-about-container {
+.center-about-container {
     clear: both;
     width: 100%;
     float: left;
@@ -457,7 +458,7 @@ footer p {
     left: 0px;
     }
 
-#about-intro-section {
+.about-intro-section {
     width: 100%;
     height: 1200px;
     margin: 0 auto;
