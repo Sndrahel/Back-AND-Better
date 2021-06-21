@@ -26,7 +26,7 @@ h1, h2 {
     color: #040707;
 }
 
-#logo {
+.logo {
     float: left; 
     font-size: 300%;
     margin-left: 30px;
@@ -35,27 +35,27 @@ h1, h2 {
 
 /* NAVIGATION LINKS */
 
-#menu {
+.menu {
     font-size: 120%;
     letter-spacing: 4px;
 }
 
-#menu, #logo {
+.menu, .logo {
     line-height: 75px;
 }
 
-#menu li {
+.menu li {
     float: right;
     list-style-type: none;
     margin-right: 30px;
 }
 
-#menu a {
+.menu a {
     text-decoration: none;
     color: #F6F6F6;
 }
 
-#menu a:hover {
+.menu a:hover {
     border-bottom: 1px solid white;
 }
 
@@ -74,14 +74,14 @@ h1, h2 {
 
 /* MAIN HEADER */
 
-#main-header {
+.main-header {
     height: 600px;
     width: 100%;  
     overflow: hidden; 
     position: relative;
 }
 
-#main-image {
+.main-image {
     height: 600px;
     width: 100%;
     background: url("../images/leon-ardho-main.jpeg");
@@ -103,7 +103,7 @@ h1, h2 {
     }
     }
 
-#main-cover-text {
+.main-cover-text {
     font-size: 120%;
     font-family: var(--main-font-family);
     text-transform: uppercase;
@@ -119,17 +119,17 @@ h1, h2 {
     position: absolute;
 } 
 
-#main-cover-text, #main-cover-text h2 {
+.main-cover-text, .main-cover-text h2 {
     color: #F6F6F6;
 }
 
 /* INTRO SECTION */
 
-#home-intro-section, #about-intro-section {
+.home-intro-section, .about-intro-section {
     height: 600px;
 }
 
-#home-intro {
+.home-intro {
     padding-top: 30px;
     padding-bottom: 30px;
     width: 100%;
@@ -140,7 +140,7 @@ h1, h2 {
     font-size: larger;
 }
 
-#intro-heading {
+.intro-heading {
     text-align: center;
     margin: 30px;
     font-size: 280%;
@@ -249,7 +249,7 @@ a {
 } 
 /* SESSIONS */
 
-#sessions {
+.sessions {
     background-image: url("../images/scott-webb-sessions.jpg");
     background-repeat: no-repeat;
     background-size: cover;
@@ -258,7 +258,7 @@ a {
     overflow: hidden;
 }
 
-#sessions div {
+.sessions div {
     float: left;
     background-color: rgba(0, 0, 0, .3); 
     color: #F6F6F6;
@@ -271,7 +271,7 @@ a {
    /* margin: 0 auto; */   
 }
 
-#sessions h2 {
+.sessions h2 {
     color: #F6F6F6;
 }
 
@@ -384,12 +384,12 @@ footer p {
     margin: 0 auto;
 }
 
-#intro-heading {
+.intro-heading {
     padding: 30px 0;
     margin: 0;
 }
 
-#home-intro {
+.home-intro {
     width: 100%;
     font-size: 100%;
 }
@@ -430,7 +430,7 @@ footer p {
     padding: 20px;
 } 
 
-#sessions div {
+.sessions div {
     width: 100%;
     clear: both;
     height: 210px;
@@ -445,7 +445,7 @@ footer p {
 
 @media screen and (max-width: 950px) {
     
-#menu {
+.menu {
     clear: left;
     float: left;
     margin-left: 30px;
@@ -453,7 +453,7 @@ footer p {
     line-height: 25px;
     }
 
-#main-cover-text {
+.main-cover-text {
     left: 0px;
     }
 
@@ -476,7 +476,7 @@ footer p {
 /*for screens sizes from 600px wide or less) */
 
 @media screen and (max-width: 600px) {
-#main-cover-text {
+.main-cover-text {
     width: 100%;
     text-align: center;
     margin: 0 auto;
@@ -491,16 +491,16 @@ footer p {
     font-size: 110%;
     }
     
-#logo {
+.logo {
     font-size: 250%;
     }
 
-#intro-heading {
+.intro-heading {
     text-align: center;
     font-size: 250%;
     }
 
-#menu {
+.menu {
     font-size: 110%;
     letter-spacing: 1px;
     }
