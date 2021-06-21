@@ -1,5 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&family=Roboto:wght@100&display=swap');
 
+:root {
+    --main-font-family: Roboto, sans-serif;
+    --main-bg-color: rgba(255, 56, 117, .5);
+}
+
 * {
     margin: 0;
     padding: 0;
@@ -7,7 +12,7 @@
 }
 
 body {
-    font-family: Roboto, sans-serif;
+    font-family: var(--main-font-family);
     font-weight: 300;
     color: #040707;
 }
@@ -100,7 +105,7 @@ h1, h2 {
 
 #main-cover-text {
     font-size: 120%;
-    font-family: Roboto, sans-serif;
+    font-family: var(--main-font-family);
     text-transform: uppercase;
     letter-spacing: 4px;
     text-align: center;
@@ -108,7 +113,7 @@ h1, h2 {
     height: 150px;
     padding-top: 40px;
     padding-left: 10px;
-    background-color: rgba(255, 56, 117, .5);
+    background-color: var(--main-bg-color);
     bottom: 100px;
     right: 50px; 
     position: absolute;
@@ -129,7 +134,7 @@ h1, h2 {
     padding-bottom: 30px;
     width: 100%;
     margin: 0 auto;
-    background-color: rgba(255, 56, 117, .5);
+    background-color: var(--main-bg-color);
     text-align: center;
     line-height: 25px;
     font-size: larger;
@@ -148,7 +153,7 @@ hr {
 }
 
 .contact-button {
-    background-color: rgba(255, 56, 117, .5);
+    background-color: var(--main-bg-color);
     border: 1px solid #040707;
     color: #F6F6F6;
     width: 120px;
@@ -177,14 +182,14 @@ a {
     padding-top: 30px;
     width: 25%;
     float: left;
-    background-color: rgba(255, 56, 117, .5);  
+    background-color: var(--main-bg-color);  
 }
     
 #right-about-container {
     padding-top: 30px;
     width: 25%;
     float: right;
-    background-color: rgba(255, 56, 117, .5);
+    background-color: var(--main-bg-color);
 }
 
 #right-about-container a {
@@ -322,7 +327,7 @@ footer p {
 .contact-us-form {
     margin: 100px 10% 0 0;
     color: #fff;
-    background-color: rgba(255, 56, 117, .5);
+    background-color: var(--main-bg-color);
     width: 600px;
     position: fixed;
     left: 10%;
