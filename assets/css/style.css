@@ -274,6 +274,7 @@ a {
 
 .sessions h2 {
     color: #F6F6F6;
+    padding-top: 10px;
 }
 
 
@@ -302,6 +303,7 @@ footer p {
 
 .social-media-links {
     text-align: center;
+    padding-top: 10px;
 }
 .social-media-links > li {
     display: inline;
@@ -526,5 +528,9 @@ footer p {
     flex-direction: row-reverse;
     width: 100%;
     }
-          
+     
+.sessions h2 {
+    font-size: 1.2rem;
+}
+
 }
