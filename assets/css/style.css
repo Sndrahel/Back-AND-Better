@@ -242,41 +242,6 @@ a {
     background-position: top;
 } 
 
-/* SESSION SECTION */
-
-#sessions {
-    background-repeat: no-repeat;
-    background-size: cover; 
-    background-position: center;
-    width: 100%;
-    overflow: hidden;
-}
-
-#sessions div {
-    color: white;
-    background-color: rgba(0, 0, 0, .6);
-    width: 25%;
-    height: 300px;
-    float: left;
-    padding: 25px 0 0 10px;
-    text-align: center;
-    border: 1px solid white;
-    box-sizing: border-box; 
-}
-
-#sessions h2 {
-    color: #fafafa;
-}
-
-#sessions-pt {
-    background-image: url("../images/sven-mieke-Lx_GDv7VA9M-unsplash.jpg");
-    background-position: center; 
-}
-
-#sessions-rehab {
-    background-image: url("../images/scott-webb-xwMlVSqP20U-unsplash.jpg");
-    background-position: center; 
-}
 
 /* FOOTER */
 
