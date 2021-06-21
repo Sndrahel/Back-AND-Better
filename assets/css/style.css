@@ -407,6 +407,7 @@ footer p {
 
 .left-about-heading, .right-about-heading {
     width: 100%;
+    text-align: center;
 }
 
 .left-about-heading h2, .right-about-heading h2 {
@@ -417,10 +418,6 @@ footer p {
 .left-about-heading p, .right-about-heading p {
     text-align: center;
     padding: 0 20px;
-}
-
-.intro-section > a {
-   display: block;
 }
  
 #center-about-container {
