@@ -84,7 +84,7 @@ h1, h2 {
 #main-image {
     height: 600px;
     width: 100%;
-    background: url("../images/pexels-leon-ardho-1552249.jpeg");
+    background: url("../images/leon-ardho-main.jpeg");
     background-position: bottom;
     position: absolute;
     
@@ -243,21 +243,19 @@ a {
 }
         
 #about-us-cover-bg {
-    background: url("../images/lee-chinyama-Y8OC0MAWQ8Y-unsplash.jpg");
+    background: url("../images/lee-chinyama-about.jpg");
     height: 100%;
     background-position: top;
 } 
 /* SESSIONS */
 
 #sessions {
-    background-image: url("../images/scott-webb-xwMlVSqP20U-unsplash.jpg");
+    background-image: url("../images/scott-webb-sessions.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
     width: 100%;
     overflow: hidden;
-  /*  display: flex;
-    justify-content: center; */
 }
 
 #sessions div {
