@@ -373,10 +373,7 @@ footer p {
     color:#040707;
 }
 
-
-/* MEDIA QUERIES */
-
-/* For larger to medium screens size from 1200px wide and down */
+/* MEDIA QUERIES 1200px WIDE OR LESS */
 
 @media screen and (max-width: 1200px) {
 .intro-section {
@@ -442,7 +439,7 @@ footer p {
 
 }
 
-/* for screens sizes from 950px wide or less */
+/* MEDIA QUERIES 950px WIDE OR LESS */
 
 @media screen and (max-width: 950px) {
     
@@ -474,7 +471,7 @@ footer p {
     }
 }
 
-/*for screens sizes from 600px wide or less) */
+/* MEDIA QUERIES 600px WIDE OR LESS) */
 
 @media screen and (max-width: 600px) {
 .main-cover-text {
