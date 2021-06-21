@@ -462,6 +462,15 @@ footer p {
     height: 1200px;
     margin: 0 auto;
     }
+
+.contact-us-form {
+    margin: 220px 10% 100px 0;
+    max-width: 500px;
+    position: fixed;
+    padding: 25px;
+    box-sizing: border-box;
+    font-size: 110%;
+    }
 }
 
 /*for screens sizes from 600px wide or less) */
@@ -473,9 +482,17 @@ footer p {
     margin: 0 auto;
     }
 
-    /*
+.contact-us-form {
+    margin: 250px 10% 0 0;
+    max-width: 300px;
+    position: absolute;
+    padding: 25px;
+    box-sizing: border-box;
+    font-size: 110%;
+    }
+    
     #logo {
         font-size: 25px;
-    } */
+    }
     
 }
