@@ -79,7 +79,7 @@ h1, h2 {
 #main-image {
     height: 600px;
     width: 100%;
-    background: url(../images/pexels-leon-ardho-1552249.jpeg);
+    background: url("../images/pexels-leon-ardho-1552249.jpeg");
     background-position: bottom;
     position: absolute;
     
@@ -189,12 +189,13 @@ a {
     width: 25%;
     float: right;
     background-color: rgba(255, 56, 117, .5);
-    margin-right: 30px;
 }
     
 #center-about-container {
-   /* width: 50%; */
+    padding-bottom: 30px;
+    width: 50%;
     margin: 0 auto;
+    display: inline;
 }
 
 .left-about-heading {
@@ -429,5 +430,9 @@ footer p {
         text-align: center;
         margin: auto;
     }
+    /*
+    #logo {
+        font-size: 25px;
+    } */
     
 }
