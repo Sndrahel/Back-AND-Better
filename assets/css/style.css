@@ -445,6 +445,9 @@ footer p {
     text-align: center; 
 }
 
+.contact-us-form {
+   /* margin: 150px; */
+    position: absolute;
 }
 
 /* MEDIA QUERIES 950px WIDE OR LESS */
@@ -476,13 +479,9 @@ footer p {
     }
 
 .contact-us-form {
-    margin: 220px 10% 100px 0;
-    max-width: 500px;
-    position: fixed;
-    padding: 25px;
-    box-sizing: border-box;
-    font-size: 110%;
-    }
+    margin-top: 150px;
+    position: absolute;
+    }   
 }
 
 /* MEDIA QUERIES 600px WIDE OR LESS) */
