@@ -1,6 +1,6 @@
 # Back AND Better
 
-Back and Better is a site that aims to help women with there health and fitness goals as well as provide them with rehab solutions.
+Back and Better is a site that aims to help women with rehablitation solutions as well as provide them with sustainable health and fitness goals.
 
 ![Responsive Mockup](mockups/responsive_mockup.jpg)
 
@@ -91,20 +91,20 @@ I have used a background image of a face painted girl who lifts a barbell for th
 
   - __The Footer__ 
 
-  - The footer section includes links to the relevant social media sites for Love Running. The links will open to a new tab to allow easy navigation for the user. 
+  - The footer section includes links to the relevant social media sites for Back and Better. The links will open to a new tab to allow easy navigation for the user. 
   - The footer is valuable to the user as it encourages them to keep connected via social media
 
-  ![Footer]()
+  ![Footer](mockups/back_and_better_footer.png)
 
   - __About Us page__
 
   - The gallery will provide the user with supporting images to see what the meet ups look like. 
   - This section is valuable to the user as they will be able to easily identify the types of events the organisation puts together. 
 
-  ![About Us]()
+  ![About Us](mockups/back_and_better_)
 
   - __The Contact page__
 
   - This page will allow the user to get signed up to Love Running to start their running journey with the community. The user will be able specify if they would like to take part in road, trail or both types of running. The user will be asked to submit their full name and email address. 
 
-  ![Contact Us]()
+  ![Contact Us](mockups/back_and_better_)
