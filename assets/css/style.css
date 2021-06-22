@@ -329,11 +329,11 @@ footer p {
 }
 
 .contact-us-form {
-    margin: 100px 10% 0 0;
+    margin: 200px;
     color: #fff;
     background-color: var(--main-bg-color);
     width: 600px;
-    position: fixed;
+    position: absolute;
     left: 10%;
     padding: 25px;
     box-sizing: border-box;
@@ -446,7 +446,7 @@ footer p {
 }
 
 .contact-us-form {
-   /* margin: 150px; */
+    margin: 120px;
     position: absolute;
 }
 
@@ -479,9 +479,9 @@ footer p {
     }
 
 .contact-us-form {
-    margin-top: 150px;
-    position: absolute;
-    }   
+    margin: 150px 10% 0 0; 
+ 
+    } 
 }
 
 /* MEDIA QUERIES 600px WIDE OR LESS) */
