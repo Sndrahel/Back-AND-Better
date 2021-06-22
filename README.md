@@ -84,10 +84,10 @@ I have used a background image of a face painted girl who lifts a barbell for th
 
   - __Session Section__ 
 
-  - This section will allow the user to see exactly when the meetups will happen, where they will be located and how long the run will be in kilometers. 
-  - This section will be updated as these times change to keep the user up to date. 
+  - This section will allow the user to see exactly what sessions the site offers and that they are located online. 
+  - This section is kept simple to focus attention on the call to action button. 
 
-  ![Sessions]()
+  ![Sessions](mockups/back_and_better_sessions.png)
 
   - __The Footer__ 
 
