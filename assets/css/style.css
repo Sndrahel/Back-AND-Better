@@ -307,6 +307,7 @@ footer p {
 .social-media-links {
     text-align: center;
     padding-top: 10px;
+    background-color: #040707;
 }
 .social-media-links > li {
     display: inline;
