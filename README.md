@@ -59,13 +59,6 @@ I have used a background image of a face painted girl who lifts a barbell for th
 ---
 ## Features:
 
-- To create a landing page effect the main image has a zoom effect to draw attention.
-- There is a responsive navbar with a call to action button for the contact page.
-- The links to different sessions types on the home page will link to the contact form on the contact page.
-- The footer layout is spreading horizontally on larger screens.
-- The about page fills some information about the company ethos and highlights more call to action buttons.
-- The sessions on the home page and the information on the about page will stack horizontally on smaller screens.
-
 ### Existing Features:
 
 __Navigation Bar__
@@ -91,7 +84,9 @@ __Home Intro Section__
 __Session Section__ 
 
 - This section will allow the user to see exactly what sessions the site offers and that they are located online. 
-- This section is kept simple to focus attention on the call to action button. 
+- This section is kept simple to focus attention on the call to action button.
+- The links to different sessions types on the home page will link to the contact form on the contact page.
+- The sessions will stack horizontally on smaller screens. 
 
 ![Sessions](mockups/back_and_better_sessions.png)
 
@@ -106,6 +101,7 @@ __About Us page__
 
 - The About Us page will provide the user with supporting and appealing information about the company and the instructors.
 - This section is valuable to the user as they will be able to easily identify and relate to the ethos .
+- The information on the about page will stack horizontally on smaller screens.
 
 ![About Us](mockups/back_and_better_about.png)
 
@@ -117,7 +113,12 @@ __The Contact page__
 
 ### Features Left to Implement:
 
-- About Page: - Will be updated with more information about the specific instructors.
+- About Page: 
+  - Will be updated with more information about the specific instructors.
+
+---
+## Implementation and Process:
+
 
 ---  
 ## Testing:
