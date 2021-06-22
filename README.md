@@ -180,7 +180,7 @@ The site was deployed to [GitHub pages](https://pages.github.com/). Using the fo
 - Go to repository settings, scroll to GitHub Pages and select the master branch for your source.
 - Save the selection and when the page reloads the link to your live site will be in the GitHub Pages section. The link can take up to 1 hour to go live.
 
-The live link can be found here - https://github.com/Sndrahel/Back-AND-Better.git
+The live link can be found here - https://sndrahel.github.io/Back-AND-Better/
   
 ---
 ## Credits
