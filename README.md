@@ -157,11 +157,12 @@ The live link can be found here - https://github.com/Sndrahel/Back-AND-Better.gi
 
 #### Content
 - The template and inspiration of this README.md is partly taken from:
-    - [oisintohak / The Drum School](https://github.com/oisintohak/The-Drum-School---MS1/blob/9df9f673e676c2308567fe43af6e8b9cb19fdfeb/README.md) 
-    - [Code Institute / Love Running](https://github.com/Code-Institute-Solutions/readme-template.git)
+    - [oisintohak / The Drum School / README.md](https://github.com/oisintohak/The-Drum-School---MS1/blob/9df9f673e676c2308567fe43af6e8b9cb19fdfeb/README.md) 
+    - [Code Institute / Love Running / README.md](https://github.com/Code-Institute-Solutions/readme-template.git)
     
-- The text for the Home page was taken from Wikipedia Article A
-- Instructions on how to implement form validation on the Sign Up page was taken from
+- The styling are through out inspired and taken from:
+    - [Code Institute / Love Running 2.0](https://github.com/Code-Institute-Org/love-running-2.0.git)
+
 
 #### Media
 - The Images on this website were taken from: 
