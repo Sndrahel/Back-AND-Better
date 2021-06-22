@@ -13,6 +13,7 @@ Back and Better is a site that aims to help women with rehablitation solutions a
 - I will look for contact information and social media links.
 - I want to make contact or book a session. 
 - I want to know the price of different sessions.
+
 ---
 ## Five Planes:
 
@@ -113,8 +114,7 @@ __The Contact page__
 
 - About Page: - Will be updated with more information about the specific instructors.
 
----
-  
+---  
 ## Testing:
 
 - I ensured that all links directed to the correct pages and that certain links directed to specific sections of other pages.
@@ -142,17 +142,34 @@ __The Contact page__
   
 text form buttom doesnt lead anywhere
   
-  ---
-
+---
 ## Deployment
 The site was deployed to [GitHub pages](https://pages.github.com/). Using the following steps: 
-- In the GitHub repository, navigate to the Settings tab 
-- From the source section drop-down menu, select the Master Branch
-- Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
+- Create a repository on GitHub and initialize it with a README.MD file
+- The root of your repository must contain an index.html file which will be the main page of your live GitHub Page.
+- Go to repository settings, scroll to GitHub Pages and select the master branch for your source.
+- Save the selection and when the page reloads the link to your live site will be in the GitHub Pages section. The link can take up to 1 hour to go live.
 
 The live link can be found here - 
   
+---
+## Credits
+
+#### Images
+The Images on this website were taken from: 
+  - [Unsplash](https://unsplash.com/)
+  - [Pexels](https://pexels.com/)
+
+  - The icons were taken from [FontAwesome](https://fontawesome.com/)
+
+#### Code
+  - Styling for faded horizontal rule elements taken from [CSS Tricks]()
+  - Responsive map iframe code taken from [This blog]()
  
+---
+## Acknowledgments
+
+- Nishant Kumar: my Code Institute mentor who guided me through this process and shared a lot of really valuable knowledge.
 
 
   
