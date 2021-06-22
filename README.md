@@ -59,7 +59,12 @@ I have used a background image of a face painted girl who lifts a barbell for th
 ---
 ## Features:
 
-<em>ou will need to explain what value each of the features provides for the user, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.</em>
+- To create a landing page effect the main image has a zoom effect to draw attention.
+- There is a responsive navbar with a call to action button for the contact page.
+- The links to different sessions types on the home page will link to the contact form on the contact page.
+- The footer layout is spreading horizontally on larger screens.
+- The about page fills some information about the company ethos and highlights more call to action buttons.
+- The sessions on the home page and the information on the about page will stack horizontally on smaller screens.
 
 ### Existing Features:
 
