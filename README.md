@@ -157,14 +157,14 @@ The live link can be found here -
 
 #### Images
 The Images on this website were taken from: 
-  - [Unsplash](https://unsplash.com/)
-  - [Pexels](https://pexels.com/)
+- [Unsplash](https://unsplash.com/)
+- [Pexels](https://pexels.com/)
 
-  - The icons were taken from [FontAwesome](https://fontawesome.com/)
+- The icons were taken from [FontAwesome](https://fontawesome.com/)
 
 #### Code
-  - Styling for faded horizontal rule elements taken from [CSS Tricks]()
-  - Responsive map iframe code taken from [This blog]()
+- Styling for faded horizontal rule elements taken from [CSS Tricks]()
+- Responsive map iframe code taken from [This blog]()
  
 ---
 ## Acknowledgments
