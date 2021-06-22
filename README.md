@@ -14,5 +14,8 @@ Back and Better is a site that aims to help women with there health and fitness 
 ---
 ## Five Planes:
 
-### - Strategy (What this website aims to achive, and for whom.)
+#### - Strategy (What this website aims to achive, and for whom.)
 The website aims to offer visually appealing and accesible information, that is requested by user stories. The main goal of the website is to attract women to to fill out the contact form.  
+
+#### - Scope (Which features, based on information from the strategy plane, do you want to include in your design?)
+To make the site easy to use and accessible, it should be properly. 
