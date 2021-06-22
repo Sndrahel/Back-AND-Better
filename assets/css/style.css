@@ -512,17 +512,22 @@ footer p {
     }
 
 .form-section {
-    height: 700px;
+    height: 600px;
     }   
 
 .contact-us-form {
-    margin: 100px 10% 0 0; 
+    margin: 80px 10% 0 0; 
     width: 100%;
     position: absolute;
     padding: 25px;
     box-sizing: border-box;
     font-size: 110%;
     left: 0;
+    }
+
+.form-text-input {
+    height: 30px;
+    margin: 5px 0 10px 0;
     }
     
 .logo {
