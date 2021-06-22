@@ -112,12 +112,35 @@ __The Contact page__
 ![Contact Us](mockups/back_and_better_contact.png)
 
 ### Features Left to Implement:
-
+- Home Page
+  - Session section will be updated with more information. 
 - About Page: 
   - Will be updated with more information about the specific instructors.
 
 ---
 ## Implementation and Process:
+- I started coding with a navbar and a background image for the home page (index file). I separated the body into three sections, the header, the content and then the footer. 
+- I added some introductory text on the home page.  
+- I added a session section in the home page.
+- I added social links to the footer.
+- I created two more files: about and contact and pasted the content from the index file. 
+
+After the initial planning session with my mentor I needed to: 
+- Start with my wireframes for tablet and mobile devices (rookie misstake not doing it ahead as well as the UX planning).
+- I added some introductory text on the about page.
+- I added a form to the contact page.
+- 1 added call to action buttons on the home page and on the about page.
+
+After my mid-project session with my mentor I had the following changes to implement:
+- Center align buttons and content.
+- Implement css variables to shorten organize multiple code values.
+
+After my end-of-project mentor session I had the following changes to implement:
+- Change id attributes to class attributes through out the pages.
+- Shorten the image names in the images folder.
+- Add aria-labels to the links on the pages.
+- Correct the responsive layout and media queries through out the pages. 
+
 
 
 ---  
@@ -180,7 +203,7 @@ The live link can be found here - https://github.com/Sndrahel/Back-AND-Better.gi
 ---
 ## Acknowledgments
 
-- Nishant Kumar: my Code Institute mentor who guided me through this process and shared a lot of really valuable knowledge.
+- Nishant Kumar: my Code Institute mentor who guided me through this process and shared a lot of valuable knowledge.
 
 
   
