@@ -76,9 +76,11 @@ I have used a background image of a face painted girl who lifts a barbell for th
 
   ![Landing Page](mockups/back_and_better_landing.png)
 
-  - __Sessions__
+  - __Home Intro Section__
 
-  ![Sessions]()
+  - The home intro section is kept simple with a motivation quote to focus attention on the call to action button.
+
+  ![Home Intro](mockups/back_and_better_intro.png)
 
   - __Session Section__ 
 
