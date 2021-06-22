@@ -22,7 +22,7 @@ The website aims to offer visually appealing and accesible information, that is 
 
 #### - Scope (Which features, based on information from the strategy plane, do you want to include in your design?)
 
-To make the site easy to use and accessible, it should be properly. 
+<em>To make the site easy to use and accessible, it should be properly.</em> 
 
 #### - Structures (How is the information structured and how is it logically grouped?)
 
@@ -92,19 +92,20 @@ I have used a background image of a face painted girl who lifts a barbell for th
   - __The Footer__ 
 
   - The footer section includes links to the relevant social media sites for Back and Better. The links will open to a new tab to allow easy navigation for the user. 
-  - The footer is valuable to the user as it encourages them to keep connected via social media
+  - The footer is valuable to the user as it encourages them to keep connected via social media.
 
   ![Footer](mockups/back_and_better_footer.png)
 
   - __About Us page__
 
-  - The gallery will provide the user with supporting images to see what the meet ups look like. 
-  - This section is valuable to the user as they will be able to easily identify the types of events the organisation puts together. 
+  - <em>The About Us page will provide the user with supporting images to see what the meet ups look like. 
+  - This section is valuable to the user as they will be able to easily identify and relate the ethos . 
+  - This section will be updated with more information about the specific instructors. </em>
 
-  ![About Us](mockups/back_and_better_)
+  ![About Us](mockups/back_and_better_about.png)
 
   - __The Contact page__
 
-  - This page will allow the user to get signed up to Love Running to start their running journey with the community. The user will be able specify if they would like to take part in road, trail or both types of running. The user will be asked to submit their full name and email address. 
+  - The Contact page is a simple contact form where the user will be asked to submit their full name, email address and phone number. The user will be able to specify some text...
 
-  ![Contact Us](mockups/back_and_better_)
+  ![Contact Us](mockups/back_and_better_contact.png)
