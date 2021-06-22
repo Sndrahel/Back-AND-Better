@@ -2,7 +2,7 @@
 
 Back and Better is a site that aims to help women with there health and fitness goals as well as provide them with rehab solutions.
 
-![Responsive Mockup](wireframes/responsive_mockup.jpg)
+![Responsive Mockup](mockups/responsive_mockup.jpg)
 
 ---
 ## User Stories:
@@ -64,5 +64,8 @@ I have used a background image of a face painted girl who lifts a barbell for th
 
 - __Navigation Bar__
 
-  - Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, About page and Contact page and is identical in each page to allow for easy navigation.
+  - Featured on all three pages, the full responsive navigation bar is fixed and includes links to the Logo, Home page, About page and Contact page and is identical in each page to allow for easy navigation.
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
+
+  ![Nav Bar](mockups/back_and_better_nav.png)
+  
