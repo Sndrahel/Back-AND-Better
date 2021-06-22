@@ -62,86 +62,97 @@ I have used a background image of a face painted girl who lifts a barbell for th
 
 ### Existing Features:
 
-- __Navigation Bar__
+__Navigation Bar__
 
-  - Featured on all three pages, the full responsive navigation bar is fixed and includes links to the Logo, Home page, About page and Contact page and is identical in each page to allow for easy navigation.
-  - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
+- Featured on all three pages, the full responsive navigation bar is fixed and includes links to the Logo, Home page, About page and Contact page and is identical in each page to allow for easy navigation.
+- This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
 
-  ![Nav Bar](mockups/back_and_better_nav.png)
+![Nav Bar](mockups/back_and_better_nav.png)
 
-  - __The landing page image__
+__The landing page image__
 
-  - The landing page includes a photograph with text overlay to attend the user about a sustainable health. 
-  - This section introduces the user to Back and Better with an eye catching animation to grab their attention.
+- The landing page includes a photograph with text overlay to attend the user about a sustainable health. 
+- This section introduces the user to Back and Better with an eye catching animation to grab their attention.
 
-  ![Landing Page](mockups/back_and_better_landing.png)
+![Landing Page](mockups/back_and_better_landing.png)
 
-  - __Home Intro Section__
+__Home Intro Section__
 
-  - The home intro section is kept simple with a motivation quote to focus attention on the call to action button.
+- The home intro section is kept simple with a motivation quote to focus attention on the call to action button.
 
-  ![Home Intro](mockups/back_and_better_intro.png)
+![Home Intro](mockups/back_and_better_intro.png)
 
-  - __Session Section__ 
+__Session Section__ 
 
-  - This section will allow the user to see exactly what sessions the site offers and that they are located online. 
-  - This section is kept simple to focus attention on the call to action button. 
+- This section will allow the user to see exactly what sessions the site offers and that they are located online. 
+- This section is kept simple to focus attention on the call to action button. 
 
-  ![Sessions](mockups/back_and_better_sessions.png)
+![Sessions](mockups/back_and_better_sessions.png)
 
-  - __The Footer__ 
+__The Footer__ 
 
-  - The footer section includes links to the relevant social media sites for Back and Better. The links will open to a new tab to allow easy navigation for the user. 
-  - The footer is valuable to the user as it encourages them to keep connected via social media.
+- The footer section includes links to the relevant social media sites for Back and Better. The links will open to a new tab to allow easy navigation for the user. 
+- The footer is valuable to the user as it encourages them to keep connected via social media.
 
-  ![Footer](mockups/back_and_better_footer.png)
+![Footer](mockups/back_and_better_footer.png)
 
-  - __About Us page__
+__About Us page__
 
-  - <em>The About Us page will provide the user with supporting images to see what the meet ups look like. 
-  - This section is valuable to the user as they will be able to easily identify and relate the ethos . </em>
+- <em>The About Us page will provide the user with supporting images to see what the meet ups look like. 
+- This section is valuable to the user as they will be able to easily identify and relate the ethos . </em>
 
-  ![About Us](mockups/back_and_better_about.png)
+![About Us](mockups/back_and_better_about.png)
 
-  - __The Contact page__
+__The Contact page__
 
-  - The Contact page is a simple contact form where the user will be asked to submit their full name, email address and phone number. The user will be able to specify some text...
+- The Contact page is a simple contact form where the user will be asked to submit their full name, email address and phone number. The user will be able to specify some text...
 
-  ![Contact Us](mockups/back_and_better_contact.png)
+![Contact Us](mockups/back_and_better_contact.png)
 
-  ### Features Left to Implement:
+### Features Left to Implement:
 
-  - About Page: - Will be updated with more information about the specific instructors.
+- About Page: - Will be updated with more information about the specific instructors.
 
-  ---
+---
   
-  ## Testing:
+## Testing:
 
-  - I ensured that all links directed to the correct pages and that certain links directed to specific sections of other pages.
-  - I ensured that all links to external websites opened in a new tab
-  - I tested the form validation and the submit button
-  - I used the following desktop browsers for testing:
-    - Google Chrome
+- I ensured that all links directed to the correct pages and that certain links directed to specific sections of other pages.
+- I ensured that all links to external websites opened in a new tab
+- I tested the form validation and the submit button
+- I used the following desktop browsers for testing:
+  - Google Chrome
+  - Safari Browser
+- I tested the site on a Huawei P30 Pro with the following mobile browsers:
+  - Google Chrome
+  - Huawei Browser
+- I tested the site on a Ipad (5:th gen) with the following browsers:
     - Safari Browser
-  - I tested the site on a Huawei P30 Pro & a IPhone 11 with the following mobile browsers:
-    - Google Chrome
-    - Mozilla Firefox?
-    - Huawei Browser
-  - I tested the site on a Ipad (5:th gen) with the following browsers:
-    - Safari Browser
-  - I tested responsiveness with Google Chrome Developer Tools.
-  - All browsers mentioned were updated to the latest version as of 22/06/2021.
+- I tested responsiveness with Google Chrome Developer Tools.
+- All browsers mentioned were updated to the latest version as of 22/06/2021.
 
-  ### Validator Testing:
+### Validator Testing:
 
-  - HTML
-    - No errors were returned when passing through the official [W3C Validator]()
-  - CSS
-    - No errors were found when passing through the official [(Jigsaw) Validator]()
+- HTML
+  - No errors were returned when passing through the official [W3C Validator]()
+- CSS
+  - No errors were found when passing through the official [(Jigsaw) Validator]()
 
-  ### Unfixed Bugs
-   
+### Unfixed Bugs
+  
+text form buttom doesnt lead anywhere
+  
+  ---
 
+## Deployment
+The site was deployed to [GitHub pages](https://pages.github.com/). Using the following steps: 
+- In the GitHub repository, navigate to the Settings tab 
+- From the source section drop-down menu, select the Master Branch
+- Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
+
+The live link can be found here - 
+  
+ 
 
 
   
