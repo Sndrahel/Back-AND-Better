@@ -116,6 +116,7 @@ __The Contact page__
   - Session section will be updated with more information. 
 - About Page: 
   - Will be updated with more information about the specific instructors.
+  - Will be updated with reviews from present and former members.
 
 ---
 ## Implementation and Process:
