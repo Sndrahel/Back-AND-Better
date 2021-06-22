@@ -28,8 +28,9 @@ The website should have user-friendly navigation. The user should be able to qui
 
 Pages: Home, About, Contact
 
-- The home page 
-- The about page 
+- The home page first view will be simple in structure with a short text intro and a call to action button.
+Below it will contain some information about the sessions types. The footer will contain social media links.
+- The about page will contain some information about the company ethos.
 - The contact page is a clean and simple contact-us form. 
 
 #### - Skeleton (How will our information be represented, and how will the user navigate to the information and the features?)
