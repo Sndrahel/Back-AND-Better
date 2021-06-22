@@ -56,11 +56,11 @@ I have used a background image of a face painted girl who lifts a barbell for th
 - [Mockup screenshot generator](http://ami.responsivedesign.is/#) was used to generate a mockup for this readme.
 
 ---
-## Features
+## Features:
 
 <em>ou will need to explain what value each of the features provides for the user, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.</em>
 
-### Existing Features
+### Existing Features:
 
 - __Navigation Bar__
 
@@ -109,11 +109,39 @@ I have used a background image of a face painted girl who lifts a barbell for th
 
   ![Contact Us](mockups/back_and_better_contact.png)
 
-  ### Features Left to Implement
+  ### Features Left to Implement:
 
   - About Page: - Will be updated with more information about the specific instructors.
 
   ---
   
-  ## Testing
+  ## Testing:
+
+  - I ensured that all links directed to the correct pages and that certain links directed to specific sections of other pages.
+  - I ensured that all links to external websites opened in a new tab
+  - I tested the form validation and the submit button
+  - I used the following desktop browsers for testing:
+    - Google Chrome
+    - Safari Browser
+  - I tested the site on a Huawei P30 Pro & a IPhone 11 with the following mobile browsers:
+    - Google Chrome
+    - Mozilla Firefox?
+    - Huawei Browser
+  - I tested the site on a Ipad (5:th gen) with the following browsers:
+    - Safari Browser
+  - I tested responsiveness with Google Chrome Developer Tools.
+  - All browsers mentioned were updated to the latest version as of 22/06/2021.
+
+  ### Validator Testing:
+
+  - HTML
+    - No errors were returned when passing through the official [W3C Validator]()
+  - CSS
+    - No errors were found when passing through the official [(Jigsaw) Validator]()
+
+  ### Unfixed Bugs
+   
+
+
+
   
