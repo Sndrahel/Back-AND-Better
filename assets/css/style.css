@@ -5,6 +5,8 @@
     --main-bg-color: rgba(255, 56, 117, .5);
 }
 
+/* STYLING THROUGH OUT THE SHEET IS TAKEN FROM (and inspired by): https://github.com/Code-Institute-Solutions/love-running-2.0-sourcecode.git */
+
 * {
     margin: 0;
     padding: 0;
@@ -176,7 +178,7 @@ a {
     border: 1px solid #F6F6F6;
 }
 
-/* ABOUT SECTION (Styling taken from Love Running template) */
+/* ABOUT SECTION */
 
 .left-about-container {
     padding-top: 30px;
@@ -271,14 +273,12 @@ a {
     text-align: center;
     border: 5px solid white;
     box-sizing: border-box;
-   /* margin: 0 auto; */   
 }
 
 .sessions h2 {
     color: #F6F6F6;
     padding-top: 10px;
 }
-
 
 /* FOOTER */
 
@@ -319,7 +319,7 @@ footer p {
     color: #fff;
 }
 
-/* FORM SECTION (Styling taken from Love Running template) */
+/* FORM SECTION */
 
 .form-section {
     clear: left; 
