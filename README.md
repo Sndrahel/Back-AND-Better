@@ -28,3 +28,12 @@ Pages: Home, About, Contact
 - The about page 
 - The contact page is a clean and simple contact-us form. 
 
+#### - Skeleton (How will our information be represented, and how will the user navigate to the information and the features?)
+###### Wireframes:
+- [Desktop_Home_page]()
+- [Mobile_Home_page]()
+- [Desktop_About_page]()
+- [Mobile_About_page]()
+- [Desktop_Contact_page]()
+- [Mobile_Contact_page]()
+
