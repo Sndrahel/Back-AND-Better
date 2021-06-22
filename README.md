@@ -12,7 +12,6 @@ Back and Better is a site that aims to help women with rehabilitation solutions 
 - I want to view information about the instructors.
 - I will look for contact information and social media links.
 - I want to make contact or book a session. 
-- I want to know the price of different sessions.
 
 ---
 ## Five Planes:
@@ -23,7 +22,7 @@ The website aims to offer visually appealing and accesible information, that is 
 
 #### - Scope (Which features, based on information from the strategy plane, do you want to include in your design?)
 
-<em>To make the site easy to use and accessible, it should be properly.</em> 
+The website should have user-friendly navigation. The user should be able to quickly access social media links and fill out a contact form to get more information. 
 
 #### - Structures (How is the information structured and how is it logically grouped?)
 
