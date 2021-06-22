@@ -37,3 +37,13 @@ Pages: Home, About, Contact
 - [Desktop_Contact_page]()
 - [Mobile_Contact_page]()
 
+#### - Surface (What will the finished product look like? - What colors, typography, and design elements will we use?)
+
+## Technologies used:
+- HTML 5
+- CSS 3
+- [FontAwesome](https://fontawesome.com/) for icons.
+- [Google_Fonts](https://fonts.google.com/)
+- [GitHub_Pages](https://pages.github.com/) was used for deployment.
+- [Mockup_screenshot_generator](http://ami.responsivedesign.is/#) was used to generate a mockup for this readme.
+
