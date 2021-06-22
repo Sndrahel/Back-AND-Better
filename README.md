@@ -38,7 +38,9 @@ Pages: Home, About, Contact
 - [Mobile_Contact_page]()
 
 #### - Surface (What will the finished product look like? - What colors, typography, and design elements will we use?)
+I have used a background image of a face painted girl who lifts a barbell for the home, about and contact page. I have tried to reuse the colors from the image through out the rest of the website.
 
+---
 ## Technologies used:
 - HTML 5
 - CSS 3
