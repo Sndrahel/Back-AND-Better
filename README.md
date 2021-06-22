@@ -51,9 +51,9 @@ I have used a background image of a face painted girl who lifts a barbell for th
 - HTML 5
 - CSS 3
 - [FontAwesome](https://fontawesome.com/) for icons.
-- [Google_Fonts](https://fonts.google.com/)
-- [GitHub_Pages](https://pages.github.com/) was used for deployment.
-- [Mockup_screenshot_generator](http://ami.responsivedesign.is/#) was used to generate a mockup for this readme.
+- [Google Fonts](https://fonts.google.com/)
+- [GitHub Pages](https://pages.github.com/) was used for deployment.
+- [Mockup screenshot generator](http://ami.responsivedesign.is/#) was used to generate a mockup for this readme.
 
 ---
 ## Features
@@ -68,4 +68,41 @@ I have used a background image of a face painted girl who lifts a barbell for th
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
 
   ![Nav Bar](mockups/back_and_better_nav.png)
-  
+
+  - __The landing page image__
+
+  - The landing page includes a photograph with text overlay to attend the user about a sustainable health. 
+  - This section introduces the user to Back and Better with an eye catching animation to grab their attention.
+
+  ![Landing Page](mockups/back_and_better_landing.png)
+
+  - __Sessions__
+
+  ![Sessions]()
+
+  - __Session Section__ 
+
+  - This section will allow the user to see exactly when the meetups will happen, where they will be located and how long the run will be in kilometers. 
+  - This section will be updated as these times change to keep the user up to date. 
+
+  ![Sessions]()
+
+  - __The Footer__ 
+
+  - The footer section includes links to the relevant social media sites for Love Running. The links will open to a new tab to allow easy navigation for the user. 
+  - The footer is valuable to the user as it encourages them to keep connected via social media
+
+  ![Footer]()
+
+  - __About Us page__
+
+  - The gallery will provide the user with supporting images to see what the meet ups look like. 
+  - This section is valuable to the user as they will be able to easily identify the types of events the organisation puts together. 
+
+  ![About Us]()
+
+  - __The Contact page__
+
+  - This page will allow the user to get signed up to Love Running to start their running journey with the community. The user will be able specify if they would like to take part in road, trail or both types of running. The user will be asked to submit their full name and email address. 
+
+  ![Contact Us]()
