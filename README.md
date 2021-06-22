@@ -99,8 +99,7 @@ I have used a background image of a face painted girl who lifts a barbell for th
   - __About Us page__
 
   - <em>The About Us page will provide the user with supporting images to see what the meet ups look like. 
-  - This section is valuable to the user as they will be able to easily identify and relate the ethos . 
-  - This section will be updated with more information about the specific instructors. </em>
+  - This section is valuable to the user as they will be able to easily identify and relate the ethos . </em>
 
   ![About Us](mockups/back_and_better_about.png)
 
@@ -109,3 +108,12 @@ I have used a background image of a face painted girl who lifts a barbell for th
   - The Contact page is a simple contact form where the user will be asked to submit their full name, email address and phone number. The user will be able to specify some text...
 
   ![Contact Us](mockups/back_and_better_contact.png)
+
+  ### Features Left to Implement
+
+  - About Page: - Will be updated with more information about the specific instructors.
+
+  ---
+  
+  ## Testing
+  
