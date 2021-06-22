@@ -104,14 +104,14 @@ __The Footer__
 
 __About Us page__
 
-- <em>The About Us page will provide the user with supporting images to see what the meet ups look like. 
-- This section is valuable to the user as they will be able to easily identify and relate the ethos . </em>
+- The About Us page will provide the user with supporting and appealing information about the company and the instructors.
+- This section is valuable to the user as they will be able to easily identify and relate to the ethos .
 
 ![About Us](mockups/back_and_better_about.png)
 
 __The Contact page__
 
-- The Contact page is a simple contact form where the user will be asked to submit their full name, email address and phone number. The user will be able to specify some text...
+- The Contact page is a simple contact form where the user will be asked to submit their full name, email address and phone number. The user will be able to specify some extra information in the textarea.
 
 ![Contact Us](mockups/back_and_better_contact.png)
 
