@@ -1,6 +1,6 @@
 # Back AND Better
 
-Back and Better is a site that aims to help women with rehablitation solutions as well as provide them with sustainable health and fitness goals.
+Back and Better is a site that aims to help women with rehabilitation solutions as well as provide them with sustainable health and fitness goals.
 
 ![Responsive Mockup](mockups/responsive_mockup.jpg)
 
@@ -127,7 +127,7 @@ __The Contact page__
   - Google Chrome
   - Huawei Browser
 - I tested the site on a Ipad (5:th gen) with the following browsers:
-    - Safari Browser
+  - Safari Browser
 - I tested responsiveness with Google Chrome Developer Tools.
 - All browsers mentioned were updated to the latest version as of 22/06/2021.
 
@@ -150,21 +150,25 @@ The site was deployed to [GitHub pages](https://pages.github.com/). Using the fo
 - Go to repository settings, scroll to GitHub Pages and select the master branch for your source.
 - Save the selection and when the page reloads the link to your live site will be in the GitHub Pages section. The link can take up to 1 hour to go live.
 
-The live link can be found here - 
+The live link can be found here - https://github.com/Sndrahel/Back-AND-Better.git
   
 ---
 ## Credits
 
-#### Images
-The Images on this website were taken from: 
-- [Unsplash](https://unsplash.com/)
-- [Pexels](https://pexels.com/)
+#### Content
+- The template and inspiration of this README.md is partly taken from:
+    - [oisintohak / The Drum School](https://github.com/oisintohak/The-Drum-School---MS1/blob/9df9f673e676c2308567fe43af6e8b9cb19fdfeb/README.md) 
+    - [Code Institute / Love Running](https://github.com/Code-Institute-Solutions/readme-template.git)
+    
+- The text for the Home page was taken from Wikipedia Article A
+- Instructions on how to implement form validation on the Sign Up page was taken from
+
+#### Media
+- The Images on this website were taken from: 
+    - [Unsplash](https://unsplash.com/)
+    - [Pexels](https://pexels.com/)
 
 - The icons were taken from [FontAwesome](https://fontawesome.com/)
-
-#### Code
-- Styling for faded horizontal rule elements taken from [CSS Tricks]()
-- Responsive map iframe code taken from [This blog]()
  
 ---
 ## Acknowledgments
