@@ -134,13 +134,13 @@ __The Contact page__
 ### Validator Testing:
 
 - HTML
-  - No errors were returned when passing through the official [W3C Validator]()
+  - [W3C HTML Validation Service](https://validator.w3.org/) No errors were returned.
 - CSS
-  - No errors were found when passing through the official [(Jigsaw) Validator]()
+  - [(Jigsaw) Validator](https://jigsaw.w3.org/css-validator/) No errors were found.
 
 ### Unfixed Bugs
   
-text form buttom doesnt lead anywhere
+Form buttom doesnt lead anywhere because there´s no action or method attributes applied at this point.
   
 ---
 ## Deployment
