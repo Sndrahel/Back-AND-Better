@@ -1,6 +1,6 @@
 # Back AND Better
 
-Back and Better is a site that aims to help womens with there health and fitness goals as well as provide them with rehab solutions.
+Back and Better is a site that aims to help women with there health and fitness goals as well as provide them with rehab solutions.
 
 ![Responsive Mockup](wireframes/responsive_mockup.jpg)
 
@@ -12,4 +12,7 @@ Back and Better is a site that aims to help womens with there health and fitness
 - I want to make contact or book a session. 
 - I want to know the price of different sessions.
 ---
+## Five Planes:
 
+### - Strategy (What this website aims to achive, and for whom.)
+The website aims to offer visually appealing and accesible information, that is requested by user stories. The main goal of the website is to attract women to to fill out the contact form.  
