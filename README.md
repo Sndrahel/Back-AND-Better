@@ -36,12 +36,12 @@ Pages: Home, About, Contact
 #### - Skeleton (How will our information be represented, and how will the user navigate to the information and the features?)
 ###### Wireframes:
 
-- [Desktop_Home_page]()
-- [Mobile_Home_page]()
-- [Desktop_About_page]()
-- [Mobile_About_page]()
-- [Desktop_Contact_page]()
-- [Mobile_Contact_page]()
+- [Desktop_Home_page](wireframes/home_desktop.png)
+- [Mobile_Home_page](wireframes/home_mobile.png)
+- [Desktop_About_page](wireframes/about_desktop.png)
+- [Mobile_About_page](wireframes/about_mobile.png)
+- [Desktop_Contact_page](wireframes/contact_desktop.png)
+- [Mobile_Contact_page](wireframes/contact_mobile.png)
 
 #### - Surface (What will the finished product look like? - What colors, typography, and design elements will we use?)
 
