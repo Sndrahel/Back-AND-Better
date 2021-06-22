@@ -8,6 +8,7 @@ Back and Better is a site that aims to help women with there health and fitness 
 ## User Stories:
 - I need to view the page on mobile devices.
 - I want to view information about sessions.
+- I want to view information about the instructors.
 - I will look for contact information and social media links.
 - I want to make contact or book a session. 
 - I want to know the price of different sessions.
@@ -19,3 +20,11 @@ The website aims to offer visually appealing and accesible information, that is 
 
 #### - Scope (Which features, based on information from the strategy plane, do you want to include in your design?)
 To make the site easy to use and accessible, it should be properly. 
+
+#### - Structures (How is the information structured and how is it logically grouped?)
+Pages: Home, About, Contact
+
+- The home page 
+- The about page 
+- The contact page is a clean and simple contact-us form. 
+
